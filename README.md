@@ -1,14 +1,11 @@
 # godriver-fe
 
-This template should help get you started developing with Vue 3 in Vite.
+godriver-fe is Client for [godriver](https://github.com/codegram01/godriver)
 
-## Recommended IDE Setup
+Remember install Backend of godriver and run
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[Video when i create godriver](https://www.youtube.com/live/JOgCeWToFHM?si=-F19Ru3t7Wq86sCx)
 
 ## Project Setup
 
@@ -16,14 +13,6 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
